@@ -1,14 +1,14 @@
-# Dogecoin [DOGE, Ð] Integration/Staging Tree
-http://dogecoin.com/
+# infec2ouscoin [infec2ous, Ð] Integration/Staging Tree
+http://infec2ouscoin.com/
 
-![DogeCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![infec2ousCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
 
-## What is DogeCoin? - Such coin
-Dogecoin is like Bitcoin, but based on Litecoin, and also much more wow.
-http://dogecoin.com/
+## What is infec2ousCoin? - Such coin
+infec2ouscoin is like Bitcoin, but based on Litecoin, and also much more wow.
+http://infec2ouscoin.com/
 
 ## License - Much license
-DogeCoin is released under the terms of the MIT license. See [COPYING](COPYING)
+infec2ousCoin is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
 
 ## Development and contributions - omg developers
@@ -17,31 +17,31 @@ their feature or bug fix is ready.
 
 ## Very Much Frequently Asked Questions
 
-### How much doge can exist?
+### How much infec2ous can exist?
 Total of 100,000,000,000 much coins
 
-### How get doge?
+### How get infec2ous?
 Scrypt Proof of Work
 
 1 Minute Block Targets, 4 Hour Diff Readjustments
 
 Special reward system: Random block rewards
 
-1-100,000: 0-1,000,000 Dogecoin Reward
+1-100,000: 0-1,000,000 infec2ouscoin Reward
 
-100,001 — 200,000: 0-500,000 Dogecoin Reward
+100,001 — 200,000: 0-500,000 infec2ouscoin Reward
 
-200,001 — 300,000: 0-250,000 Dogecoin Reward
+200,001 — 300,000: 0-250,000 infec2ouscoin Reward
 
-300,001 — 400,000: 0-125,000 Dogecoin Reward
+300,001 — 400,000: 0-125,000 infec2ouscoin Reward
 
-400,001 — 500,000: 0-62,500 Dogecoin Reward
+400,001 — 500,000: 0-62,500 infec2ouscoin Reward
 
-500,001 - 600,000: 0-31,250 Dogecoin Reward
+500,001 - 600,000: 0-31,250 infec2ouscoin Reward
 
 600,000+ — 10,000 Reward (flat)
 
-### Wow plz make dogecoind
+### Wow plz make infec2ouscoind
 
     sudo apt-get install build-essential \
                          libssl-dev \
@@ -57,4 +57,4 @@ Special reward system: Random block rewards
 RPC 22555
 P2P 22556
 
-![](http://dogesay.com/wow//////such/coin)
+![](http://infec2oussay.com/wow//////such/coin)

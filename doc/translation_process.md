@@ -7,7 +7,7 @@ handle those translations.
 Files and Folders
 -----------------
 
-### dogecoin-qt.pro
+### infec2ouscoin-qt.pro
 
 This file takes care of generating `.qm` files from `.ts` files. It is mostly
 automated.
